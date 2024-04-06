@@ -1,6 +1,6 @@
 <template>
   <div class="about-me">
-  <img src="../assets/img/Me.jpg" alt="Hugo Jacquel">
+  <img src="../assets/img/DSC_0043-removebg-preview.jpg" alt="Divano Rizqi Anandra">
   <div class="text">
     <h2>Tentang Saya</h2>
     <h3>Mahasiswa Teknik Informatika</h3>
@@ -12,7 +12,7 @@
     <p>Saya pertama kuliah di Universitas Islam Riau pada tahun 2022 pada bulan Oktober. Selama di Universitas Islam Riau, saya telah belajar
       beberapa bahasa pemrograman yaitu HTML, CSS, Javascript, C, dan SQL.
     </p>
-    
+
     </div>
 </div>
 
